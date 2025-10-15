@@ -572,6 +572,14 @@
         "parent": null
       }
     },
-    "enums": {}
+    "enums": {
+      "__": {
+        "alignment": 6,
+        "members": {
+          "": -1008797390483226624
+        },
+        "type": "unknown"
+      }
+    }
   }
 }
